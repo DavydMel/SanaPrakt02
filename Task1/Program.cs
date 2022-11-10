@@ -2,5 +2,6 @@
 Console.WriteLine("Branch = 'Text'");
 Console.WriteLine("Branch = 'Text'");
 Console.WriteLine("Branch = 'Text'");
-Console.WriteLine("Курси Sana Commerce Software Development Bootcamp");
-Console.WriteLine("Курси Sana Commerce Software Development Bootcamp");
+Console.WriteLine("Branch = 'Text', but not the same commit");
+Console.WriteLine("Branch = 'Text', but not the same commit");
+Console.WriteLine("Branch = 'Text', but not the same commit");
